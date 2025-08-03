@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "1",
+    "name": "Mike Electrician Services",
+    "category": "electrical",
+    "phone": "+1234567890",
+    "email": "mike@electricianservices.com",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "2",
+    "name": "QuickFix Plumbing",
+    "category": "plumbing",
+    "phone": "+1234567891",
+    "email": "info@quickfixplumbing.com",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "3",
+    "name": "Elite HVAC Solutions",
+    "category": "heating",
+    "phone": "+1234567892",
+    "email": "contact@elitehvac.com",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "Amble Group",
+    "category": "plumbing",
+    "phone": "+27784232464",
+    "email": "thandomatomela00@gmail.com",
+    "_id": "4",
+    "isActive": true,
+    "createdAt": "2025-07-23T14:37:16.428Z"
+  }
+]

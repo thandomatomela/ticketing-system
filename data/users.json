@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "1",
+    "name": "System Owner",
+    "email": "owner@example.com",
+    "password": "admin123",
+    "role": "owner",
+    "phone": "+1234567890",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "2",
+    "name": "Property Admin",
+    "email": "admin@example.com",
+    "password": "admin123",
+    "role": "admin",
+    "phone": "+1234567891",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "3",
+    "name": "Internal Maintenance Staff",
+    "email": "maintenance@example.com",
+    "password": "admin123",
+    "role": "worker",
+    "phone": "+1987654321",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "_id": "4",
+    "name": "Student Tenant",
+    "email": "student@example.com",
+    "password": "admin123",
+    "role": "tenant",
+    "phone": "+1987654322",
+    "isActive": true,
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "name": "Buseka Charlie ",
+    "email": "b@c.com",
+    "password": "admin123",
+    "role": "worker",
+    "phone": "+270605285280",
+    "isActive": true,
+    "_id": "5",
+    "createdAt": "2025-07-23T15:30:14.837Z"
+  }
+]

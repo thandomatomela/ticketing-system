@@ -1,0 +1,22 @@
+2025/07/28-10:21:12.644 1b4c Reusing MANIFEST C:\Users\matomet\Desktop\Tenant Ticketing System\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/28-10:21:12.645 1b4c Recovering log #193
+2025/07/28-10:21:12.714 1b4c Reusing old log C:\Users\matomet\Desktop\Tenant Ticketing System\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000193.log 
+2025/07/28-10:21:14.502 7e00 Level-0 table #202: started
+2025/07/28-10:21:14.515 7e00 Level-0 table #202: 544913 bytes OK
+2025/07/28-10:21:14.516 7e00 Delete type=0 #193
+2025/07/28-10:21:14.516 7e00 Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/28-10:21:15.857 74f8 Compacting 1@1 + 6@2 files
+2025/07/28-10:21:15.926 74f8 Generated table #203@1: 46250 keys, 2210321 bytes
+2025/07/28-10:21:16.023 74f8 Generated table #204@1: 56695 keys, 2216928 bytes
+2025/07/28-10:21:16.094 74f8 Generated table #205@1: 36260 keys, 2200400 bytes
+2025/07/28-10:21:16.146 74f8 Generated table #206@1: 24924 keys, 2198620 bytes
+2025/07/28-10:21:16.177 74f8 Generated table #207@1: 26933 keys, 925619 bytes
+2025/07/28-10:21:16.177 74f8 Compacted 1@1 + 6@2 files => 9751888 bytes
+2025/07/28-10:21:16.177 74f8 compacted to: files[ 0 0 5 0 0 0 0 ]
+2025/07/28-10:21:16.178 74f8 Delete type=2 #188
+2025/07/28-10:21:16.178 74f8 Delete type=2 #189
+2025/07/28-10:21:16.178 74f8 Delete type=2 #196
+2025/07/28-10:21:16.178 74f8 Delete type=2 #197
+2025/07/28-10:21:16.178 74f8 Delete type=2 #198
+2025/07/28-10:21:16.178 74f8 Delete type=2 #199
+2025/07/28-10:21:16.178 74f8 Delete type=2 #202
